@@ -1,16 +1,16 @@
 #include<iostream>
 using namespace std;
- float p, l;
+ float panjang, lebar;
 
  void input(){
     cout << "masukan panjang persegi = " ;
-    cin >> p;
+    cin >> panjang;
     cout << "masukan lebar persegi = " ;
-    cin >> l;
+    cin >> lebar;
  }
 
  float LuasPersegiPanjang(){
-    return p*l;
+    return panjang*lebar;
  }
 
  void output(){
