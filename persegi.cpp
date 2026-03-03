@@ -14,7 +14,7 @@ using namespace std;
  }
 
  void output(){
-    cout << "hasilnya = " << LuasPersegiPanjang();
+    cout << "hasilnya = " << LuasPersegiPanjang() << "m";
  }
 
  int main(){
