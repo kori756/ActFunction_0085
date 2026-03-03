@@ -18,7 +18,7 @@ using namespace std;
  }
 
  void output (){
-    cout << "hasilnya = " << LuasPersegi(p,l) << endl;
+    cout << "hasilnya = " << LuasPersegi(p,l) << "m" << endl;
  }
 
  int main (){
@@ -26,6 +26,6 @@ using namespace std;
  
  input ();
  output ();
- cout << "hasil penjumlahan = " << jumlah (9,8,7);
+ cout << "hasil penjumlahan = " <<jumlah (9,8,7);
  
 }
