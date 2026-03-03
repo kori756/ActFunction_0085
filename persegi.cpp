@@ -9,12 +9,12 @@ using namespace std;
     cin >> l;
  }
 
- float LuasPersegi(){
+ float LuasPersegiPanjang(){
     return p*l;
  }
 
  void output(){
-    cout << "hasil = " << LuasPersegi();
+    cout << "hasilnya = " << LuasPersegiPanjang();
  }
 
  int main(){
