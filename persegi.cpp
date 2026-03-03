@@ -3,9 +3,9 @@ using namespace std;
  float panjang, lebar;
 
  void input(){
-    cout << "masukan panjang persegi = " ;
+    cout << "panjang persegi = " ;
     cin >> panjang;
-    cout << "masukan lebar persegi = " ;
+    cout << "lebar persegi = " ;
     cin >> lebar;
  }
 
